@@ -30,6 +30,6 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 ## Contact
 
-For any inquiries or feedback, please contact [Abdul](mailto:abdul@swav.app).
+For any inquiries or feedback, please contact [Akash](mailto:akashshamnani@gmail.com).
 
 Thank you for checking out this project! Happy coding! 🚀
